@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.wbl.AutomationFramework1.HomePageTest" duration-ms="55502" started-at="2019-11-07T07:09:44Z" finished-at="2019-11-07T07:10:39Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="55502" started-at="2019-11-07T07:09:44Z" finished-at="2019-11-07T07:10:39Z">
+      <class name="com.wbl.AutomationFramework1.HomePageTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.wbl.AutomationFramework1.HomePageTest@b684286]" name="beforeClass" is-config="true" duration-ms="16324" started-at="2019-11-06T23:09:44Z" finished-at="2019-11-06T23:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.wbl.AutomationFramework1.HomePageTest@b684286]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2019-11-06T23:10:00Z" finished-at="2019-11-06T23:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="footerlinksTest()[pri:0, instance:com.wbl.AutomationFramework1.HomePageTest@b684286]" name="footerlinksTest" duration-ms="1060" started-at="2019-11-06T23:10:00Z" finished-at="2019-11-06T23:10:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerlinksTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.wbl.AutomationFramework1.HomePageTest@b684286]" name="beforeClass" is-config="true" duration-ms="13710" started-at="2019-11-06T23:10:01Z" finished-at="2019-11-06T23:10:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.wbl.AutomationFramework1.HomePageTest@b684286]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-11-06T23:10:15Z" finished-at="2019-11-06T23:10:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="headerNavLinkTest()[pri:0, instance:com.wbl.AutomationFramework1.HomePageTest@b684286]" name="headerNavLinkTest" duration-ms="239" started-at="2019-11-06T23:10:15Z" finished-at="2019-11-06T23:10:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerNavLinkTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.wbl.AutomationFramework1.HomePageTest@b684286]" name="beforeClass" is-config="true" duration-ms="15047" started-at="2019-11-06T23:10:15Z" finished-at="2019-11-06T23:10:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:com.wbl.AutomationFramework1.HomePageTest@b684286]" name="searchTest" duration-ms="7079" started-at="2019-11-06T23:10:30Z" finished-at="2019-11-06T23:10:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.wbl.AutomationFramework1.HomePageTest@b684286]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-11-06T23:10:30Z" finished-at="2019-11-06T23:10:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.wbl.AutomationFramework1.HomePageTest@b684286]" name="afterClass" is-config="true" duration-ms="2014" started-at="2019-11-06T23:10:37Z" finished-at="2019-11-06T23:10:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.wbl.AutomationFramework1.HomePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.wbl.AutomationFramework1.HomePageTest -->
+</testng-results>
